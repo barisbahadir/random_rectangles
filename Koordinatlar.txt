@@ -1,0 +1,34 @@
+Koordinatlar su sekildedir: 
+
+Kutu 1: BASLANGIC noktasi: (10,32) 
+	BITIS noktasi: (11,33)
+
+Kutu 2: BASLANGIC noktasi: (20,6) 
+	BITIS noktasi: (21,9)
+
+Kutu 3: BASLANGIC noktasi: (5,16) 
+	BITIS noktasi: (6,17)
+
+Kutu 4: BASLANGIC noktasi: (18,29) 
+	BITIS noktasi: (22,31)
+
+Kutu 5: BASLANGIC noktasi: (3,3) 
+	BITIS noktasi: (7,7)
+
+Kutu 6: BASLANGIC noktasi: (12,12) 
+	BITIS noktasi: (15,13)
+
+Kutu 7: BASLANGIC noktasi: (22,22) 
+	BITIS noktasi: (25,25)
+
+Kutu 8: BASLANGIC noktasi: (7,35) 
+	BITIS noktasi: (10,39)
+
+Kutu 9: BASLANGIC noktasi: (20,12) 
+	BITIS noktasi: (21,13)
+
+Kutu 10: BASLANGIC noktasi: (5,22) 
+	BITIS noktasi: (6,25)
+
+
+YERLESTIRILEN 10 KUTUNUN AGIRLIK MERKEZI: (12,20) olarak hesaplanmýþtýr.
